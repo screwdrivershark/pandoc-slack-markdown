@@ -1,0 +1,39 @@
+*first level*
+
+*second level*
+
+*alternative first level*
+
+*alternative second level*
+
+paragraph 1
+
+paragraph 2
+
+before no line break after no line break
+
+before spaces line break
+after spaces line break
+
+before html line break`<br>` after html line break
+
+*bold* text
+
+Love*is*bold
+
+*bold* text
+
+_italic_ text
+
+Love_is_italic
+
+_italic_ text
+
+This text is *_really important_*.
+
+> blockquote
+
+> blockquote with
+>
+> multiple paragraphs
+
