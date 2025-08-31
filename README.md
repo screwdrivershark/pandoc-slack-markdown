@@ -11,3 +11,7 @@ A custom pandoc writer for Slack markdown (mrkdwn)
 Install [bats](https://bats-core.readthedocs.io/en/stable/index.html), bats-support, bats-assert
 
 Run `bats tests`
+
+# Not supported
+
+Slack mrkdwn doesn't support various features, e.g. horizontal rules or tables.

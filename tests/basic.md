@@ -1,3 +1,5 @@
+https://www.markdownguide.org/basic-syntax/
+
 # first level
 
 ## second level
@@ -40,4 +42,12 @@ This text is ***really important***.
 > blockquote with
 > 
 > multiple paragraphs
+
+`**inline code**`
+
+    indented
+    **code block**
+
+
+
 

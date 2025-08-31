@@ -34,3 +34,7 @@ setup() {
     test_file basic
 }
 
+@test "extended" {
+    test_file extended
+}
+

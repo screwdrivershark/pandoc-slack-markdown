@@ -77,3 +77,7 @@ end
 -- Writer.Block.BulletList = function(el)
 --   return Writer.Blocks(el.content[1])
 -- end
+
+Writer.Block.CodeBlock = function(el)
+  return "```\n" .. el.text .. "\n```"
+end
